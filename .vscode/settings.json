@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Samsung\\eclipse-workspace\\SerWeJaEE_jar\\SerWeJaEE.jar",
+        "WEB-FLD/gson-2.10.1.jar"
+    ]
+}
